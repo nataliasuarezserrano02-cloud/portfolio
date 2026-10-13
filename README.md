@@ -8,3 +8,5 @@ Este repositorio contiene mi portfolio personal y actividades realizadas durante
 ## Actividad 4
 
 El archivo `index.html` contiene la página principal de mi portfolio.
+## Objetivo
+Mostrar las actividades realizadas durante el curso.
